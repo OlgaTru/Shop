@@ -1,7 +1,10 @@
 
 window._ = require('lodash');
 
+
 window.Popper = require('popper.js/dist/umd/popper');
+
+
 
 /**
  * We'll load jQuery and the Bootstrap jQuery plugin which provides support
